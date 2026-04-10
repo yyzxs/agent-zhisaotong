@@ -1,8 +1,4 @@
 import logging
-from unittest.mock import DEFAULT
-
-from pkg_resources import file_ns_handler
-
 from utils.path_tool import get_abs_path
 import os
 from datetime import datetime
